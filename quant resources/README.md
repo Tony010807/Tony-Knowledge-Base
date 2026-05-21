@@ -11,3 +11,4 @@ Public Quant interview preparation materials.
 ## Quant Project
 
 - [BTC volatility prediction project](./BTC%20volatility%20prediction%20project/)
+  - [Lecture video archive parts](./BTC%20volatility%20prediction%20project/lecture_video_archive/) - split archive for the project lecture videos.
